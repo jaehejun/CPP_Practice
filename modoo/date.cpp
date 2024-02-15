@@ -1,6 +1,6 @@
-#include<iostream>
+#include <iostream>
 
-    class Date
+class Date
 {
     int year_;
     int month_; // 1 부터 12 까지.
